@@ -12,10 +12,17 @@ Simple CRM will allow these nonprofits to gain better control over their donor a
 
 This idea was inspired by my own experiences working in the nonprofit fundraising and CRM field. I've been fortunate enough to work for larger, well-established nonprofits, but my time in the industry has exposed me to the needs of much smaller nonprofits that still do great work.
 ### Features
-Include Features here
+- User login: all users must log in. Since this is not intended as a publicly accessible application, there is no option to create a new account. New usernames can be created only by an administrator.
+- Add new donors: Users will have the ability to add donor contact records to the database. 
+- Create new campaigns: Fundraising campaigns can be created, edited and activated by users with proper permissions. 
+- Post transactions: Users can post donations from individual donors to the database. Each transaction is linked to an individual donor and campaign. 
 ### Technologies
-Include Technologies here
+- C#/.Net Core
+- MySQL
+- HTML/Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+- I plan to have 3 user account levels with varying permissions: admin, manager, and employee. Therefore, I'll need to learn how to establish different permissions for user accounts.
+- I would also like to include functionality that allows a user to create a new donor record (if an existing record isn't found) when posting donations. This will require me to learn how to trigger a pop-up window form to create a new donor account. 
+After doing so, the pop-up would close and the transaction form will populate the newly created donor ID. 
 ### Project Tracker
 https://trello.com/b/qkdkOsE6/simple-crm-liftoff-project
