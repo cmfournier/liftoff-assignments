@@ -12,7 +12,8 @@ Simple CRM will allow these nonprofits to gain better control over their donor a
 
 This idea was inspired by my own experiences working in the nonprofit fundraising and CRM field. I've been fortunate enough to work for larger, well-established nonprofits, but my time in the industry has exposed me to the needs of much smaller nonprofits that still do great work.
 ### Features
-- User login: all users must log in. Since this is not intended as a publicly accessible application, there is no option to create a new account. New usernames can be created only by an administrator.
+- User login: all users must log in. Since this is not intended as a publicly accessible application, there is no option to create a new account. New usernames can be created only by an administrator. When an admin is logged in, they will have an additional route on the
+navbar with the option to creat a new user account. 
 - Add new donors: Users will have the ability to add donor contact records to the database. 
 - Create new campaigns: Fundraising campaigns can be created, edited and activated by users with proper permissions. 
 - Post transactions: Users can post donations from individual donors to the database. Each transaction is linked to an individual donor and campaign. 
