@@ -17,7 +17,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-(https://trello.com/b/qkdkOsE6/simple-crm-liftoff-project)
+https://trello.com/b/qkdkOsE6/simple-crm-liftoff-project
 
 ### Project Repo Link
 
