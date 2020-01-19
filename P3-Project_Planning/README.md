@@ -21,4 +21,4 @@ https://trello.com/b/qkdkOsE6/simple-crm-liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/cmfournier/SimpleCRM
